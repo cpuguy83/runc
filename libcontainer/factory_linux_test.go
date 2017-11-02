@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/docker/docker/pkg/mount"
+	"github.com/moby/moby/pkg/mount"
 	"github.com/opencontainers/runc/libcontainer/configs"
 	"github.com/opencontainers/runc/libcontainer/utils"
 
